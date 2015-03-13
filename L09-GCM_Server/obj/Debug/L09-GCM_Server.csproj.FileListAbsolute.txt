@@ -1,0 +1,12 @@
+D:\Work\XamainClass2015\AndroidLab_Teacher\L09-GCM_Server\bin\Debug\L09-GCM_Server.exe.config
+D:\Work\XamainClass2015\AndroidLab_Teacher\L09-GCM_Server\bin\Debug\L09-GCM_Server.exe
+D:\Work\XamainClass2015\AndroidLab_Teacher\L09-GCM_Server\bin\Debug\L09-GCM_Server.pdb
+D:\Work\XamainClass2015\AndroidLab_Teacher\L09-GCM_Server\bin\Debug\Newtonsoft.Json.dll
+D:\Work\XamainClass2015\AndroidLab_Teacher\L09-GCM_Server\bin\Debug\PushSharp.Android.dll
+D:\Work\XamainClass2015\AndroidLab_Teacher\L09-GCM_Server\bin\Debug\PushSharp.Core.dll
+D:\Work\XamainClass2015\AndroidLab_Teacher\L09-GCM_Server\obj\Debug\L09-GCM_Server.csprojResolveAssemblyReference.cache
+D:\Work\XamainClass2015\AndroidLab_Teacher\L09-GCM_Server\obj\Debug\L09-GCM_Server.exe
+D:\Work\XamainClass2015\AndroidLab_Teacher\L09-GCM_Server\obj\Debug\L09-GCM_Server.pdb
+D:\Work\XamainClass2015\AndroidLab\AndroidLab\L09-GCM_Server\bin\Debug\L09-GCM_Server.exe.config
+D:\Work\XamainClass2015\AndroidLab\AndroidLab\L09-GCM_Server\obj\Debug\L09-GCM_Server.exe
+D:\Work\XamainClass2015\AndroidLab\AndroidLab\L09-GCM_Server\obj\Debug\L09-GCM_Server.pdb

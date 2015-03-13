@@ -1,0 +1,10 @@
+D:\Projects\XamarinTeach.Droid\L09-GCM_Server\bin\Release\L09-GCM_Server.exe.config
+D:\Projects\XamarinTeach.Droid\L09-GCM_Server\bin\Release\L09-GCM_Server.exe
+D:\Projects\XamarinTeach.Droid\L09-GCM_Server\bin\Release\L09-GCM_Server.pdb
+D:\Projects\XamarinTeach.Droid\L09-GCM_Server\bin\Release\Newtonsoft.Json.dll
+D:\Projects\XamarinTeach.Droid\L09-GCM_Server\bin\Release\PushSharp.Android.dll
+D:\Projects\XamarinTeach.Droid\L09-GCM_Server\bin\Release\PushSharp.Apple.dll
+D:\Projects\XamarinTeach.Droid\L09-GCM_Server\bin\Release\PushSharp.Core.dll
+D:\Projects\XamarinTeach.Droid\L09-GCM_Server\obj\Release\L09-GCM_Server.csprojResolveAssemblyReference.cache
+D:\Projects\XamarinTeach.Droid\L09-GCM_Server\obj\Release\L09-GCM_Server.exe
+D:\Projects\XamarinTeach.Droid\L09-GCM_Server\obj\Release\L09-GCM_Server.pdb
