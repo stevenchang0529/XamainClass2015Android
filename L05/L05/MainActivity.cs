@@ -16,7 +16,7 @@ namespace L05
 
         protected override void OnCreate(Bundle bundle)
         {
-     
+            
 
             base.OnCreate(bundle);
             SetContentView(Resource.Layout.Main);
@@ -25,9 +25,8 @@ namespace L05
             var txtName = this.FindViewById<EditText>(Resource.Id.txtName);
             var txtWork = this.FindViewById<EditText>(Resource.Id.txtWork);
             var textView = this.FindViewById<TextView>(Resource.Id.textView);
-            this.FindViewById<Button>(Resource.Id.MyButton).Click +=  (sender, e) =>
+            this.FindViewById<Button>(Resource.Id.MyButton).Click += async (sender, e) =>
             {
-
                 //lab:使用 WebClient的DownloadString取得WebAPI上的Json字串
 
 
@@ -36,14 +35,12 @@ namespace L05
 
                 //lab:使用 Newtonsoft.Json.JsonConvert的DeserializeObject<T>將字串反序列化回物件
 
-                //lab:把物件的值給予三個對應的TextView
 
+                //lab:把物件的值給予三個對應的TextView
 
             };
         }
     }
-
-
 
     //lab:由http://json2csharp.com/產生的類別
     public class MyClass
